@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Status bar stuff. -->
+        <item name="android:statusBarColor">@color/colorWhite</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:windowBackground">@color/colorWhite</item>
+    </style>
+
+    <style name="ActionBarTextAppearance">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/colorPrimaryBlack</item>
+        <item name="fontFamily">@font/poppins_medium</item>
+    </style>
+    <style name="HeaderTextAppearance">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/colorPrimaryBlack</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+    <style name="ContentTextAppearance">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/colorPrimaryBlack</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+    <style name="TagTextAppearance">
+    <item name="android:textSize">12sp</item>
+    <item name="android:textColor">@color/colorPrimaryGray</item>
+    <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+
+</resources>
