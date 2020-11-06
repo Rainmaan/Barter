@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564579993285",
+    "firebase_url": "https://barter-76d47.firebaseio.com",
+    "project_id": "barter-76d47",
+    "storage_bucket": "barter-76d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564579993285:android:5f13c4bcd21628fc4792ac",
+        "android_client_info": {
+          "package_name": "com.rain.barter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564579993285-c8o07jv49oorm70h2q6gc11s5ajsd132.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rain.barter",
+            "certificate_hash": "e3952ec0dbcd3e621901849edcc9bb6a6fb8bb68"
+          }
+        },
+        {
+          "client_id": "564579993285-bj41mpv5mr6f2lkjrs9mr79fsnkk9u40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8DUe1F45d058hf9Q6y-E0Mi7Xd_g_PqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564579993285-bj41mpv5mr6f2lkjrs9mr79fsnkk9u40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
